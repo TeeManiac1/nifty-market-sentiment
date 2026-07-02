@@ -95,7 +95,7 @@ This Privacy Policy may be updated from time to time as the project evolves. Any
 For questions about this policy or this project, contact:
 
 **Sarthak**  
-**Email:** your_email_here
+**Email:** sv62lko@gmail.com
 
 ## 12. YouTube API Services
 
